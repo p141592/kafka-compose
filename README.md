@@ -1,6 +1,6 @@
 <p align="center">
     <div align="center">
-        <h1>kafka-compose</h1>
+        <h1>Kafka compose</h1>
         <p>
             <b>Простой запуск <a href="https://kafka.apache.org/uses">Kafka</a> </b>
         </p>
