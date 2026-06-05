@@ -1,0 +1,4 @@
+# See: https://docs.redpanda.com/current/console/config/configure-console/
+kafka:
+  brokers:
+    - kafka:29092
